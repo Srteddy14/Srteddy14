@@ -13,5 +13,5 @@ Bienvenido a mi espacio en GitHub, donde la programación a bajo nivel y las mat
 
 ## 🌐 Redes Sociales
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/)
 - 📧 **Correo:** ridolfidaluz.a@gmail.com
