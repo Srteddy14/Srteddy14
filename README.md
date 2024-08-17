@@ -1,16 +1,17 @@
-## Hi there 👋
+![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/220px-Tux.svg.png)
 
-<!--
-**Srteddy14/Srteddy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-Here are some ideas to get you started:
+Bienvenido a mi espacio en GitHub, donde la programación a bajo nivel y las matemáticas se encuentran con la tecnología. Soy Analista en Tecnologías de la Información y la Comunicación, apasionado por Linux, la seguridad informática y el desarrollo de sistemas operativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Habilidades Técnicas
+
+- **Lenguajes de Programación:** C, Python, Bash, Assembler
+- **Sistemas Operativos:** Linux (administración avanzada)
+- **Redes:** Configuración y administración de redes
+- **Seguridad Informática:** Hardening, análisis de vulnerabilidades
+
+## 🌐 Redes Sociales
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/))
+- 📧 **Correo:** ridolfidaluz.a@gmail.com
