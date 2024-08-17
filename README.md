@@ -1,4 +1,4 @@
-<img src="./GIF.gif" alt="Descripción de la imagen" height="300" width="600"/>
+<img src="./GIF.gif" alt="Descripción de la imagen" height="300" width="1280"/>
 
 
 # ¡Hola! 👋 Soy Alejandro Ridolfi
