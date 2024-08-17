@@ -1,4 +1,5 @@
-<a href="https://es.bloggif.com/" title="Edición de fotos"><img src="https://data.bloggif.com/distant/user/store/f/6/c/8/597bb2c339fe624b69fe77c0a7108c6f.gif" alt="Montaje creado Bloggif" width="1093" height="640" /></a>
+<img src="./GIF.gif" alt="Descripción de la imagen" width="600"/>
+
 
 # ¡Hola! 👋 Soy Alejandro Ridolfi
 
