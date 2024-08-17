@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/220px-Tux.svg.png)
+![Tux, the Linux mascot](./GIF.gif)
 
 # ¡Hola! 👋 Soy Alejandro Ridolfi
 
