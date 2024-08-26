@@ -12,6 +12,9 @@ Bienvenido a mi espacio en GitHub, donde la programación a bajo nivel y las mat
 - **Redes:** Configuración y administración de redes
 - **Seguridad Informática:** Hardening, análisis de vulnerabilidades
 
+## Proyectos
+- **Creacion de servidores web locales usando Apache**
+- **Creacion de servidores DNS locales usando BIND9**
 ## 🌐 Redes Sociales
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/)
