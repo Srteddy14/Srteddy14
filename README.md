@@ -15,6 +15,7 @@ Bienvenido a mi espacio en GitHub, donde la programación a bajo nivel y las mat
 ## Proyectos
 - **Creacion de servidores web locales usando Apache**
 - **Creacion de servidores DNS locales usando BIND9**
+- **Ataques de Hijack session**
 ## 🌐 Redes Sociales
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/)
