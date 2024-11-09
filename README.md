@@ -1,12 +1,19 @@
 <img src="./GIF.gif" alt="Descripción de la imagen" height="320" width="1280"/>
 
 
-# Alejandro Javier Ridolfi Da Luz
+# <h1 align="center"><b>Hi , I'm Alejandro Javier Ridolfi Da Luz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-![Linux](https://img.shields.io/badge/Linux-Admin-blue?style=flat-square&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Developer-yellow?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Programming-lightgrey?style=flat-square&logo=c&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Aspiring IT Professional | Passionate About Networking, System Administration, and AWS**
 
@@ -43,9 +50,18 @@ I’m passionate about continuous learning and love working on projects that cha
 - **Adaptability:** Comfortable working in dynamic environments and quickly adapting to new tools and technologies.
 - **Team Collaboration:** Able to work effectively in team settings, sharing knowledge and collaborating towards common goals.
 - **Attention to Detail:** Thorough in ensuring accuracy and quality in technical projects.
-
 ---
 
-## 📫 Contact
 
-Feel free to reach out to me via email at [ridolfidaluz.a@gmail.com](mailto:ridolfidaluz.a@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-ridolfi-daluz).
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+
+
+<p align="center">
+	<a href="mailto:ridolfidaluz.a@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    
+</p>
+
+
+
