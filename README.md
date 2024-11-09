@@ -14,19 +14,19 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![BIND9](https://img.shields.io/badge/BIND9-006F98?style=for-the-badge&logo=bind&logoColor=white)
 
 **Aspiring IT Professional | Passionate About Networking, System Administration, and AWS**
 
 **Location:** La Plata, Buenos Aires, Argentina  
-**Email:** [ridolfidaluz.a@gmail.com](mailto:ridolfidaluz.a@gmail.com)  
-**LinkedIn:** [Alejandro Javier Ridolfi Da Luz](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/)  
 **Portfolio:** [GitHub Projects](https://github.com/alejandro-ridolfi)
 
 ---
 
 ## 👋 About Me
 
-I’m Alejandro Javier Ridolfi Da Luz, an IT enthusiast from Argentina, currently based in La Plata, Buenos Aires. I’m in the final stages of completing my degree in **Information and Communication Technologies** at the **National University of La Plata**, and I'm eager to dive into my first professional experience in the tech industry. My interests lie in **computer networks**, **system administration**, and **cloud technologies**, and I’ve spent my academic years building solid foundational skills in these areas.
+I’m Alejandro Javier Ridolfi Da Luz, an IT enthusiast from Argentina, currently based in La Plata, Buenos Aires. I’m in the final stages of completing my degree in **Information and Communication Technologies** at the **National University of La Plata**, and I'm eager to dive into my first professional experience in the tech industry. My interests lie in **computer networks**, **system administration**, and **cybersecurity**, and I’ve spent my academic years building solid foundational skills in these areas.
 
 I’m passionate about continuous learning and love working on projects that challenge me to grow. I’m currently completing my **internship at LINTI** ([Laboratorio de Investigación en Nuevas Tecnologías Informáticas](https://linti.unlp.edu.ar/)), where I’ve gained hands-on experience in **web servers**, **DNS configuration**, and **basic AWS cloud services**.
 
@@ -42,6 +42,14 @@ I’m passionate about continuous learning and love working on projects that cha
 - **Others:** Object-Oriented Programming (OOP), Socket Programming, Shell Scripting, Scrum methodology
 
 ---
+## 🎓 Education
+- **Information and Communication Technology Analyst** with [National University of La Plata](https://www.info.unlp.edu.ar/).
+---
+## Courses
+
+-  **Junior Cybersecurity Analyst** with [Cisco Networking Academy](https://www.netacad.com).
+-  **Ethical Hacker** with [Cisco Networking Academy](https://www.netacad.com).
+-  **Cybersecurity Ed 14** with [Fundación Telefónica Movistar](https://www.fundaciontelefonica.com.ar/).
 
 ## 💡 Soft Skills
 
