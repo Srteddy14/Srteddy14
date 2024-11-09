@@ -18,6 +18,11 @@
 ![BIND9](https://img.shields.io/badge/BIND9-006F98?style=for-the-badge&logo=bind&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3A7B8C?style=for-the-badge&logo=wazuh&logoColor=white)
+
 
 **Aspiring IT Professional | Passionate About Networking, System Administration, and AWS**
 
