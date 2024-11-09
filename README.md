@@ -16,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![BIND9](https://img.shields.io/badge/BIND9-006F98?style=for-the-badge&logo=bind&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Aspiring IT Professional | Passionate About Networking, System Administration, and AWS**
 
@@ -50,6 +52,7 @@ I’m passionate about continuous learning and love working on projects that cha
 -  **Junior Cybersecurity Analyst** with [Cisco Networking Academy](https://www.netacad.com).
 -  **Ethical Hacker** with [Cisco Networking Academy](https://www.netacad.com).
 -  **Cybersecurity Ed 14** with [Fundación Telefónica Movistar](https://www.fundaciontelefonica.com.ar/).
+-  **SOC Analyst Level 1** with [Fundación Comunidad Dojo](https://comunidaddojo.org/)
 
 ## 💡 Soft Skills
 
